@@ -18,9 +18,13 @@ Interactive hospital operations analytics dashboard built with **Streamlit + Plo
 
 ## Screenshots
 
-![Dashboard Snapshot 1](Dashboard%20snaphot%201.png)
+### Dashboard Snapshot 1
 
-![Dashboard Snapshot 2](Dashbaord%20snapshot%202.png)
+![Dashboard Snapshot 1](https://github.com/springboardmentor647/medical-operations-dashboard-team-b-batch-2/raw/main/Dashboard%20snaphot%201.png)
+
+### Dashboard Snapshot 2
+
+![Dashboard Snapshot 2](https://github.com/springboardmentor647/medical-operations-dashboard-team-b-batch-2/raw/main/Dashbaord%20snapshot%202.png)
 
 ---
 
